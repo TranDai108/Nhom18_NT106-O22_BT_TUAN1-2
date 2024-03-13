@@ -1,0 +1,10 @@
+D:\NT106-LTMCB\TEST\Explorer UI\bin\Debug\Explorer UI.exe.config
+D:\NT106-LTMCB\TEST\Explorer UI\bin\Debug\Explorer UI.exe
+D:\NT106-LTMCB\TEST\Explorer UI\bin\Debug\Explorer UI.pdb
+D:\NT106-LTMCB\TEST\Explorer UI\obj\Debug\Explorer UI.csproj.AssemblyReference.cache
+D:\NT106-LTMCB\TEST\Explorer UI\obj\Debug\Explorer_UI.Form1.resources
+D:\NT106-LTMCB\TEST\Explorer UI\obj\Debug\Explorer_UI.Properties.Resources.resources
+D:\NT106-LTMCB\TEST\Explorer UI\obj\Debug\Explorer UI.csproj.GenerateResource.cache
+D:\NT106-LTMCB\TEST\Explorer UI\obj\Debug\Explorer UI.csproj.CoreCompileInputs.cache
+D:\NT106-LTMCB\TEST\Explorer UI\obj\Debug\Explorer UI.exe
+D:\NT106-LTMCB\TEST\Explorer UI\obj\Debug\Explorer UI.pdb
