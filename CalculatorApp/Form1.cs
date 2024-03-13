@@ -82,8 +82,6 @@ namespace CalculatorApp
 
         }
 
-        
-
         private void button17_Click(object sender, EventArgs e)
         {
             Displayresbox.Text = "0";

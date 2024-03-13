@@ -8,3 +8,10 @@ C:\Users\Admin\source\repos\Lập Trình Mạng\CalculatorApp\CalculatorApp\obj\
 C:\Users\Admin\source\repos\Lập Trình Mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Lập Trình Mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
 C:\Users\Admin\source\repos\Lập Trình Mạng\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.pdb
