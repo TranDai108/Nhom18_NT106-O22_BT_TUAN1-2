@@ -50,5 +50,11 @@ namespace Explorer_UI
         {
 
         }
+
+        private void btMenu_Click(object sender, EventArgs e)
+        {
+            Form3 f = new Form3();
+            f.Show();
+        }
     }
 }
