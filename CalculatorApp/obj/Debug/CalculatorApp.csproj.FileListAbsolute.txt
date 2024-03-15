@@ -15,3 +15,6 @@ C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\
 C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.exe
 C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\CalculatorApp\bin\Debug\CalculatorApp.pdb

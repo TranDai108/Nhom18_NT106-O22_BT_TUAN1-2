@@ -19,3 +19,14 @@ C:\Users\DELL\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Exp
 C:\Users\DELL\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer UI.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer UI.exe
 C:\Users\DELL\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer UI.pdb
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\bin\Debug\Explorer UI.exe.config
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\bin\Debug\Explorer UI.exe
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\bin\Debug\Explorer UI.pdb
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer UI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer_UI.Form1.resources
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer_UI.Form3.resources
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer_UI.Properties.Resources.resources
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer UI.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer UI.exe
+C:\Users\Admin\source\repos\Nhom18_NT106-O22_BT_TUAN1-2\Explorer UI\obj\Debug\Explorer UI.pdb
